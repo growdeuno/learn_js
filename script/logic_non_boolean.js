@@ -1,0 +1,14 @@
+var manga = "Onepiece" || "Naruto";
+console.log(manga);
+var manga1 = "Onepiece" && "Naruto";
+console.log(manga1);
+var something = "Lorem Ipsum" || true;
+console.log(something);
+var something = "Lorem Ipsum" && true;
+console.log(something);
+var somethingelse = true || "Lorem Ipsum";
+console.log(somethingelse);
+var somethingelse1 = true && "Lorem Ipsum";
+console.log(somethingelse1);
+var anu = false || "Dolor Sit Amet";
+console.log(anu);

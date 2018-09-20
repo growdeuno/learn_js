@@ -1,0 +1,18 @@
+var couple = [["a",60],["b",70],["c",80],["d",90],["e",100]];
+console.log(couple);
+console.log(couple[0]);
+console.log(couple[1]);
+console.log(couple[2]);
+console.log(couple[3]);
+console.log(couple[4]);
+console.log(typeof couple);
+console.log(couple[0][0]);
+console.log(couple[0][1]);
+console.log(couple[1][0]);
+console.log(couple[1][1]);
+console.log(couple[2][0]);
+console.log(couple[2][1]);
+console.log(couple[3][0]);
+console.log(couple[3][1]);
+console.log(couple[4][0]);
+console.log(couple[4][1]);
